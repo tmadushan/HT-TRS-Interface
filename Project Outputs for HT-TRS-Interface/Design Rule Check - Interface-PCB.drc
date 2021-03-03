@@ -1,0 +1,57 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\tmadu\Documents\Amateur Radio\HT-TRS-Interface\Interface-PCB.PcbDoc
+Date     : 03-Mar-21
+Time     : 11:38:41 PM
+
+WARNING: 4 Net Ties failed verification
+   Small Component P4-HT 2.5mm-SPK Output (965mil,60mil) on Top Layer, Small Component P4-HT 2.5mm-SPK Output (965mil,60mil) on Top Layer, has isolated copper
+   Small Component P3-USB SC-MIC Input (210mil,160mil) on Top Layer, Small Component P3-USB SC-MIC Input (210mil,160mil) on Top Layer, has isolated copper
+   Small Component P2-USB SC-SPK Output (210mil,350mil) on Top Layer, Small Component P2-USB SC-SPK Output (210mil,350mil) on Top Layer, has isolated copper
+   Small Component P1-HT 3.5mm-MIC Input (965mil,369.842mil) on Top Layer, Small Component P1-HT 3.5mm-MIC Input (965mil,369.842mil) on Top Layer, has isolated copper
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=20mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room HT-TRS-Interface-Schematic (Bounding Region = (3075mil, 2015mil, 4055mil, 2565mil) (InComponentClass('HT-TRS-Interface-Schematic'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
