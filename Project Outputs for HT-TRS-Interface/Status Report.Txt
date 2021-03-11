@@ -1,13 +1,35 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [HT-TRS-Interface.PrjPcb]
-   Generated File[Interface-PCB.TXT]
-   Generated File[Interface-PCB.DRL]
-   Generated File[Interface-PCB.LDP]
-   Generated File[Interface-PCB.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [HT-TRS-Interface.PrjPcb]
+   Generated File[Interface-PCB.GTO]
+   Generated File[Interface-PCB.GTP]
+   Generated File[Interface-PCB.GTS]
+   Generated File[Interface-PCB.GTL]
+   Generated File[Interface-PCB.GBL]
+   Generated File[Interface-PCB.GBS]
+   Generated File[Interface-PCB.GBP]
+   Generated File[Interface-PCB.GBO]
+   Generated File[Interface-PCB.GM1]
+   Generated File[Interface-PCB.GM5]
+   Generated File[Interface-PCB.GM13]
+   Generated File[Interface-PCB.GM15]
+   Generated File[Interface-PCB.GM16]
+   Generated File[Interface-PCB.GM20]
+   Generated File[Interface-PCB.GM21]
+   Generated File[Interface-PCB.GM23]
+   Generated File[Interface-PCB.GM24]
+   Generated File[Interface-PCB.GKO]
+   Generated File[Interface-PCB.GPT]
+   Generated File[Interface-PCB.GPB]
+   Generated File[Interface-PCB.1]
+   Generated File[Interface-PCB.GML]
+   Generated File[Interface-PCB.GD1]
+   Generated File[Interface-PCB.RUL]
+   Generated File[Interface-PCB.EXTREP]
+   Generated File[Interface-PCB.REP]
 
 
-Files Generated   : 4
+Files Generated   : 26
 Documents Printed : 0
 
-Finished Output Generation At 12:54:33 AM On 04-Mar-21
+Finished Output Generation At 5:25:27 PM On 11-Mar-21
