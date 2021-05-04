@@ -11,6 +11,9 @@ This interface allows you to connect your Baofeng/TYT/Kenwood/Yaesu HT to Raspbe
 
 ![](bottom.jpg)
 
+Manufactured PCB 
+![](W175664ASC154-pic.jpg)
+
 ### Notes
 
 Board Size	30.5000mm  x   21.8440mm
