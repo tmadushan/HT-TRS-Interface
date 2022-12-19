@@ -1,11 +1,11 @@
 Board Information Report
 Filename     : E:\Amateur Radio\Projects\HT-TRS-Interface\Smartphone-HT.PcbDoc
 Date         : 19/12/2022
-Time         : 9:29:24 AM
-Time Elapsed : 00:00:01
+Time         : 10:51:35 AM
+Time Elapsed : 00:00:00
 
 General
-    Board Size, 700milsx535mils
+    Board Size, 20.828mmx13.208mm
     Components on board, 6
 count : 2
 
@@ -17,8 +17,8 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 6, 0, 28, 0, 0, 0, 0
-    Bottom Layer, 0, 0, 0, 6, 0, 0, 0, 0
+    Top Layer, 0, 6, 0, 19, 0, 0, 1, 0
+    Bottom Layer, 0, 0, 0, 6, 0, 0, 1, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 0
     Top Assembly, 0, 0, 0, 12, 3, 0, 0, 0
     Top 3D Body, 0, 0, 0, 12, 0, 0, 0, 3
@@ -28,12 +28,12 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
     Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 10, 1, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 10, 6, 0, 0, 0, 3, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 0, 0, 0, 18, 12, 0, 0, 0
+    Top Overlay, 0, 0, 0, 18, 24, 0, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 3, 0, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
@@ -41,21 +41,21 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
 count : 21
 
 Drill Pairs, Vias
-    Top Layer - Bottom Layer, 1
+    Top Layer - Bottom Layer, 6
 count : 1
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 0.063, 40.434, 17%
-    Bottom Layer, 0.027, 17.563, 7%
+    Top Layer, 0.327, 210.72, 79%
+    Bottom Layer, 0.269, 173.527, 65%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias
 count : 0
 
 Plated Hole Size, Pads, Vias
-    0mils, 6, 0
-    28mils, 0, 1
-    35.433mils, 10, 0
+    0mm, 6, 0
+    0.7112mm, 0, 6
+    0.9mm, 10, 0
 count : 3
 
 Non-Plated Slot Size / Length, Pads
@@ -71,39 +71,39 @@ Plated Square Hole Size, Pads
 count : 0
 
 Top Layer Annular Ring Size, Count
-    22mils, 1
-    23.622mils, 10
+    0.5588mm, 6
+    0.6mm, 10
 count : 2
 
 Mid Layer Annular Ring Size, Count
-    22mils, 1
-    23.622mils, 10
+    0.5588mm, 6
+    0.6mm, 10
 count : 2
 
 Bottom Layer Annular Ring Size, Count
-    22mils, 1
-    23.622mils, 10
+    0.5588mm, 6
+    0.6mm, 10
 count : 2
 
 Pad Solder Mask, Count
-    0mils, 6
-    4mils, 10
+    0mm, 6
+    0.1016mm, 10
 count : 2
 
 Pad Paste Mask, Count
-    0mils, 16
+    0mm, 16
 count : 1
 
 Pad Pwr/Gnd Expansion, Count
-    20mils, 16
+    0.508mm, 16
 count : 1
 
 Pad Relief Conductor Width, Count
-    10mils, 16
+    0.254mm, 16
 count : 1
 
 Pad Relief Air Gap, Count
-    10mils, 16
+    0.254mm, 16
 count : 1
 
 Pad Relief Entries, Count
@@ -111,34 +111,36 @@ Pad Relief Entries, Count
 count : 1
 
 Via Solder Mask, Count
-    4mils, 1
+    0.1016mm, 6
 count : 1
 
 Via Pwr/Gnd Expansion, Count
-    20mils, 1
+    0.508mm, 6
 count : 1
 
 Track Width, Count
-    3.937mils, 6
-    7.874mils, 54
-    10mils, 2
-    20mils, 32
+    0.1mm, 6
+    0.2mm, 54
+    0.254mm, 2
+    0.508mm, 23
 count : 4
 
 Text Height, Count
-    39.37mils, 3
-    60mils, 12
-count : 2
+    0.762mm, 26
+    1mm, 3
+    1.524mm, 1
+count : 3
 
 Text Width, Count
-    3.937mils, 3
-    10mils, 12
-count : 2
+    0.1mm, 3
+    0.127mm, 12
+    0.254mm, 15
+count : 3
 
 Net Track Width, Count
-    10mils, 5
+    0.254mm, 5
 count : 1
 
 Net Via Size, Count
-    50mils, 5
+    1.27mm, 5
 count : 1

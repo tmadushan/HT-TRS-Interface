@@ -1,18 +1,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Interface-PCB.PcbDoc   11-Mar-21  5:24:30 PM
+NCDrill File Report For: Smartphone-HT.PcbDoc   19/12/2022  11:07:54 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : Interface-PCB.TXT
-EIA File   : Interface-PCB.DRL
+ASCII RoundHoles File : Smartphone-HT.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      24mil (0.6mm)                                             Round             12        PTH        0.00inch (0.00mm)
-T2      28mil (0.7mm)                                             Round             6         PTH        0.00inch (0.00mm)
-T3      28mil (0.711mm)                                           Round             2         PTH        0.00inch (0.00mm)
-T4      35mil (0.9mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T1      28mil (0.711mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             10        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              25
+Totals                                                                              16
 
 Total Processing Time (hh:mm:ss) : 00:00:00

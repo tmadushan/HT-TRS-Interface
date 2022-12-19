@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Smartphone-HT.PcbDoc]
+   Generated File[Smartphone-HT.TXT]
+   Generated File[Smartphone-HT.LDP]
+   Generated File[Smartphone-HT.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:07:55 AM On 19/12/2022
