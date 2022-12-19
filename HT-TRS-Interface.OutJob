@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job Group
+Name=HT-TRS-Interface.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -54,7 +54,7 @@ OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=8.98|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=13.21|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration2_Name2=OutputConfigurationParameter2
@@ -103,6 +103,8 @@ OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=1
 OutputDefault4=0
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
 OutputType5=NC Drill
 OutputName5=NC Drill Files
 OutputCategory5=Fabrication
@@ -113,12 +115,14 @@ OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=2
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 
 [PublishSettings]
-OutputFilePath2=C:\Users\tmadu\Documents\Amateur Radio\HT-TRS-Interface\.PDF
-ReleaseManaged2=0
-OutputBasePath2=C:\Users\tmadu\Documents\Amateur Radio\HT-TRS-Interface\
-OutputPathMedia2=
+OutputFilePath2=E:\Amateur Radio\Projects\HT-TRS-Interface\Project Outputs for HT-TRS-Interface\HT-TRS-Interface.pdf
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for HT-TRS-Interface
+OutputPathMedia2=[Media Type]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
@@ -142,10 +146,10 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=E:\Amateur Radio\Projects\HT-TRS-Interface\Project Outputs for HT-TRS-Interface\
+OutputFilePath3=E:\Amateur Radio\Projects\HT-TRS-Interface\Project Outputs for HT-TRS-Interface\Generate Files\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for HT-TRS-Interface
-OutputPathMedia3=
+OutputPathMedia3=[Media Type]
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Name]
 OutputPathOutputerPrefix3=
@@ -157,9 +161,9 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\tmadu\Documents\Amateur Radio\HT-TRS-Interface\.PDF
+RelativeOutputPath2=E:\Amateur Radio\Projects\HT-TRS-Interface\Project Outputs for HT-TRS-Interface\HT-TRS-Interface.pdf
 OpenOutputs2=1
-RelativeOutputPath3=E:\Amateur Radio\Projects\HT-TRS-Interface\Project Outputs for HT-TRS-Interface\
+RelativeOutputPath3=E:\Amateur Radio\Projects\HT-TRS-Interface\Project Outputs for HT-TRS-Interface\Generate Files\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
